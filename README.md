@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @jena-mari
+- 👀 I’m interested in blending the arts and technology.
+- 🌱 I’m currently learning: Data Management, Cybersecurity, Python, and Systems Analysis!
+- 📫 How to reach me: You can contact me through my personal email, jenamaribathan@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I can eat glazed fried chicken everyday!

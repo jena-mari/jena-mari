@@ -7,7 +7,7 @@ I am a first-year Computer Science student at the University of Wollongong, majo
 
 ## ₊˚⊹♡ technical skills...
 - **Programming Languages:** Python, C, C#, C++
-- - **Developer Tools:** Visual Studio Code, MySQL, ProjectLibre, UMLet, Replit, Github, Microsoft Excel
+- **Developer Tools:** Visual Studio Code, MySQL, ProjectLibre, UMLet, Replit, Github, Microsoft Excel
 - **Web Development:** HTML, Readymag, Wix, Google Sites
 - **Graphic Design:** Procreate and Canva
 - **Soft Skills:** Leadership, Project Management, Communication, Teamwork

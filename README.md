@@ -6,7 +6,7 @@ I am a second-year Computer Science student at the University of Wollongong, maj
 *P.S. This Github is currently a work in progress!*
 
 ## ₊˚⊹♡ technical skills...
-- **Programming Languages:** Python, C, C#, C++, HTML, CSS, Javascript
+- **Programming Languages:** Python, C, C#, C++, HTML, CSS, Javascript, AJAX, XML
 - **Developer Tools:** Visual Studio Code, MySQL, ProjectLibre, UMLet, Replit, Github, Microsoft Excel
 - **Web Development:** HTML, Readymag, Wix, Google Sites
 - **Graphic Design:** Procreate and Canva

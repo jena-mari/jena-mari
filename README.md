@@ -1,7 +1,7 @@
 # welcome to jena's github! ୧ ‧₊˚ 🍓 ⋅ ☆
 
 ## ₊˚⊹♡ about me...
-I am a first-year Computer Science student at the University of Wollongong, majoring in Software Engineering. Equipped with leadership experience and fuelled by a profound passion for science, technology, engineering, and mathematics, I offer a blend of technical aptitude, problem-solving abilities, and a keen adaptability to dynamic environments. Eager to contribute my skills and enthusiasm to innovative projects and collaborative teams. 
+I am a second-year Computer Science student at the University of Wollongong, majoring in Software Engineering. Equipped with leadership experience and fuelled by a profound passion for science, technology, engineering, and mathematics, I offer a blend of technical aptitude, problem-solving abilities, and a keen adaptability to dynamic environments. Eager to contribute my skills and enthusiasm to innovative projects and collaborative teams. 
 
 *P.S. This Github is currently a work in progress!*
 

@@ -23,8 +23,6 @@ I am a second-year Computer Science student at the University of Wollongong, maj
 - **Leadership & Communication:** Co-founder and executive of the Filipino Organisation at UOW, managing events, documentation, social media, and external collaborations.
 - **Remote Collaboration:** Worked with a New York-based team as a Data Analytics extern, applying machine learning techniques for blockchain smart contract analysis.
 - **Tutoring & Mentorship:** Personalised mathematics tutoring for primary to high school students, enhancing student outcomes and receiving excellent feedback from parents.
-![image](https://github.com/user-attachments/assets/2fb66e27-62b1-44ab-831f-7dadc4146763)
-
 
 ## ₊˚⊹♡ contact me...
 - **Email:** jenamaribathan@gmail.com

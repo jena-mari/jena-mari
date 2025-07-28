@@ -6,9 +6,9 @@ I am a second-year Computer Science student at the University of Wollongong, maj
 *P.S. This Github is currently a work in progress!*
 
 ## ₊˚⊹♡ technical skills...
-- **Programming Languages:** Python, C, C#, C++, HTML, CSS, Javascript, Java, AJAX, XML
+- **Programming Languages:** Python, C, C#, C++, Javascript, Java
 - **Developer Tools:** Visual Studio Code, MySQL, ProjectLibre, UMLet, Replit, Github, Microsoft Excel, RapidMiner, R Studio
-- **Web Development:** HTML, CSS, Readymag, Wix, Google Sites
+- **Web Development:** HTML, CSS, AJAX, XML, Readymag, Wix, Google Sites
 - **Algorithms and Data Structures:** DFS, BFS, Prim’s Algorithm, Kruskal’s Algorithm, Dijkstra’s Algorithm, Graphs
 - **Graphic Design:** Procreate and Canva
 - **Soft Skills:** Leadership, Project Management, Communication, Teamwork

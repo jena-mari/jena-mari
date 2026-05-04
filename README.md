@@ -1,21 +1,14 @@
-# welcome to jena's github! ୧ ‧₊˚ 🍓 ⋅ ☆
+<img width="468" height="12" alt="image" src="https://github.com/user-attachments/assets/cb87dff0-8ac0-4905-b8f9-755a94242600" /># welcome to jena's github! ୧ ‧₊˚ 🍓 ⋅ ☆
 
 ## ₊˚⊹♡ about me...
-I am a third-year Computer Science student at the University of Wollongong, majoring in Software Engineering. Equipped with leadership experience and fuelled by a profound passion for science, technology, engineering, and mathematics, I offer a blend of technical aptitude, problem-solving abilities, and a keen adaptability to dynamic environments. Eager to contribute my skills and enthusiasm to innovative projects and collaborative teams. 
+Top 5% Computer Science (Dean's Scholar + Software Engineering) student at UOW. Founded and scaled a 130+ member university organisation, led front-end initiatives at a startup as an intern, and enjoy turning ideas into clean, visually engaging products.
 
 ## ₊˚⊹♡ technical skills...
-- **Programming Languages:** Python, C, C#, C++, Javascript, Java
-- **Developer Tools:** Visual Studio Code, MySQL, ProjectLibre, UMLet, Replit, Github, Microsoft Excel, RapidMiner, R Studio
-- **Web Development:** HTML, CSS, AJAX, XML, Readymag, Wix, Google Sites
-- **Algorithms and Data Structures:** DFS, BFS, Prim’s Algorithm, Kruskal’s Algorithm, Dijkstra’s Algorithm, Graphs
-- **Graphic Design:** Procreate and Canva
-- **Soft Skills:** Leadership, Project Management, Communication, Teamwork
-- **Languages:** Fluent in English, Filipino, Kapampangan
-
-## ₊˚⊹♡ key skills and highlights...
-- **Leadership & Communication:** Co-founder and executive of the Filipino Organisation at UOW, managing events, documentation, social media, and external collaborations.
-- **Remote Collaboration:** Worked with a New York-based team as a Data Analytics extern, applying machine learning techniques for blockchain smart contract analysis.
-- **Tutoring & Mentorship:** Personalised mathematics tutoring for primary to high school students, enhancing student outcomes and receiving excellent feedback from parents.
+- **Programming Languages:** Java • Python • JavaScript • TypeScript • SQL • C++
+- **Frontend and Backend:** React • Spring Boot • REST APIs • JavaFX
+- **Data and AI:** Python (Pandas, NumPy) • Machine Learning (Clustering, Pattern Analysis) • RapidMiner
+- **Tools and DevOps:** Docker • Git/GitHub • VS Code • Google Colab
+- **Design and UX:** Figma • UI/UX Design • Canva
 
 ## ₊˚⊹♡ contact me...
 - **Personal Website:** https://jena-portfolio-xi.vercel.app/

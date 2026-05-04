@@ -1,4 +1,4 @@
-<img width="468" height="12" alt="image" src="https://github.com/user-attachments/assets/cb87dff0-8ac0-4905-b8f9-755a94242600" /># welcome to jena's github! ୧ ‧₊˚ 🍓 ⋅ ☆
+# welcome to jena's github! ୧ ‧₊˚ 🍓 ⋅ ☆
 
 ## ₊˚⊹♡ about me...
 Top 5% Computer Science (Dean's Scholar + Software Engineering) student at UOW. Founded and scaled a 130+ member university organisation, led front-end initiatives at a startup as an intern, and enjoy turning ideas into clean, visually engaging products.

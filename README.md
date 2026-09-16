@@ -1,18 +1,46 @@
-# welcome to jena's github! ୧ ‧₊˚ 🍓 ⋅ ☆
+<a href="https://jenabathan.com/">
+  <img src="assets/hello-jena.svg" alt="hi, i'm jena. — software, design & little details. currently: building things & catching trains." width="100%" />
+</a>
 
-## ₊˚⊹♡ about me...
-Top 5% Computer Science (Dean's Scholar + Software Engineering) student at UOW. Founded and scaled a 130+ member university organisation, led front-end initiatives at a startup as an intern, and enjoy turning ideas into clean, visually engaging products.
+<p align="center">
+  <a href="https://jenabathan.com/">my website ↗</a> &nbsp; · &nbsp;
+  <a href="https://jenabathan.com/#projects">view my work ↗</a> &nbsp; · &nbsp;
+  <a href="mailto:jenamaribathan@gmail.com">say hello ↗</a>
+</p>
 
-## ₊˚⊹♡ technical skills...
-- **Languages**: Python, Java, JavaScript, TypeScript, C++, SQL, C#
-- **Machine Learning/Data**: Pandas, NumPy, scikit-learn, RapidMiner, Matplotlib, Seaborn
-- **AI/Systems**: Machine Learning, Clustering, Statistical Analysis, LLM APIs (Gemini and OpenAI),
-Agentic AI (exposure)
-- **Backend/Frontend**: React, Spring Boot, REST APIs, Tailwind CSS, JavaFX
-- **Tools**: Docker, Git/GitHub, Vite, Google Colab, MySQL, VS Code
-- **Design**: Figma, Procreate, UI/UX Design, Prototyping
+## a little about me .✦ ݁˖
 
-## ₊˚⊹♡ contact me...
-- **Personal Website:** https://jenabathan.com/
-- **Email:** jenamaribathan@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/jenabathan/
+I'm Jena — a Computer Science student at the University of Wollongong, studying Software Engineering as a Dean's Scholar. I like turning ideas into things that work beautifully, from the interface to the systems behind it.
+
+A few stamps collected along the way:
+
+- **top 5%** of my Computer Science cohort at UOW.
+- **130+ members** in the university organisation I founded and grew.
+- **frontend development & design** experience leading initiatives during a startup internship.
+
+## my tech stack ⋆˚꩜｡
+
+Tools and technologies I've worked with — freshly pinned up.
+
+| | in my toolkit |
+| :--- | :--- |
+| **languages** | Python · Java · JavaScript · TypeScript · C++ · SQL · C# |
+| **frontend & backend** | React · Spring Boot · REST APIs · Tailwind CSS · JavaFX |
+| **data & machine learning** | Pandas · NumPy · scikit-learn · RapidMiner · Matplotlib · Seaborn · Clustering · Statistical Analysis |
+| **AI & systems** | Gemini & OpenAI APIs · Exposure to agentic AI |
+| **tools** | Docker · Git/GitHub · Vite · Google Colab · MySQL · VS Code |
+| **design & UI/UX** | Figma · Procreate · UI/UX Design · Prototyping |
+
+## a postcard from my corner of the internet ✉
+
+I enjoy building clean, visually engaging products and bringing a little personality to the details. You can find my projects, design work, and the rest of my journey on **[jenabathan.com](https://jenabathan.com/)**.
+
+Got a project, an opportunity, or something you'd like to talk about? I'd love to hear from you.
+
+**[email me](mailto:jenamaribathan@gmail.com)** &nbsp; / &nbsp; **[find me on linkedin](https://www.linkedin.com/in/jenabathan/)**
+
+<br />
+
+<p align="center">
+  <sub>made with love, matcha, and coffee. — jena ♡</sub>
+</p>

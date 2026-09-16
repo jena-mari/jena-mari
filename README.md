@@ -1,5 +1,5 @@
 <a href="https://jenabathan.com/">
-  <img src="assets/hello-jena.svg" alt="hi, i'm jena. — software, design & little details. currently: building things & catching trains." width="100%" />
+  <img src="main/hello-jena.svg" alt="hi, i'm jena. — software, design & little details. currently: building things & catching trains." width="100%" />
 </a>
 
 <p align="center">

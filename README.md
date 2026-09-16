@@ -1,7 +1,3 @@
-<a href="https://jenabathan.com/">
-  <img src="main/hello-jena.svg" alt="hi, i'm jena. — software, design & little details. currently: building things & catching trains." width="100%" />
-</a>
-
 <p align="center">
   <a href="https://jenabathan.com/">my website ↗</a> &nbsp; · &nbsp;
   <a href="https://jenabathan.com/#projects">view my work ↗</a> &nbsp; · &nbsp;

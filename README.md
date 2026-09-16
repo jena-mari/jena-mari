@@ -1,3 +1,4 @@
+
 <p align="center">
   <a href="https://jenabathan.com/">my website ↗</a> &nbsp; · &nbsp;
   <a href="https://jenabathan.com/#projects">view my work ↗</a> &nbsp; · &nbsp;
@@ -11,8 +12,9 @@ I'm Jena — a Computer Science student at the University of Wollongong, studyin
 A few stamps collected along the way:
 
 - **top 5%** of my Computer Science cohort at UOW.
-- **130+ members** in the university organisation I founded and grew.
-- **frontend development & design** experience leading initiatives during a startup internship.
+- - **2x** hackathon winner, lead frontend and full-stack engineer for both.
+- **150+ members** in the university organisation I founded and grew.
+- **frontend development & design** led creative initiatives during a startup internship.
 
 ## my tech stack ⋆˚꩜｡
 
@@ -27,7 +29,7 @@ Tools and technologies I've worked with — freshly pinned up.
 | **tools** | Docker · Git/GitHub · Vite · Google Colab · MySQL · VS Code |
 | **design & UI/UX** | Figma · Procreate · UI/UX Design · Prototyping |
 
-## a postcard from my corner of the internet ✉
+## a postcard from my corner of the internet ⋆ ˚｡ ⋆୨💌୧⋆ ˚｡
 
 I enjoy building clean, visually engaging products and bringing a little personality to the details. You can find my projects, design work, and the rest of my journey on **[jenabathan.com](https://jenabathan.com/)**.
 

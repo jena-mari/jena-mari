@@ -1,3 +1,4 @@
+![jena-banner](jena.gif)
 
 <p align="center">
   <a href="https://jenabathan.com/">my website ↗</a> &nbsp; · &nbsp;

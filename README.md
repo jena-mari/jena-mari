@@ -13,7 +13,7 @@ I'm Jena — a Computer Science student at the University of Wollongong, studyin
 A few stamps collected along the way:
 
 - **top 5%** of my Computer Science cohort at UOW.
-- - **2x** hackathon winner, lead frontend and full-stack engineer for both.
+- **2x** hackathon winner, lead frontend and full-stack engineer for both.
 - **150+ members** in the university organisation I founded and grew.
 - **frontend development & design** led creative initiatives during a startup internship.
 
